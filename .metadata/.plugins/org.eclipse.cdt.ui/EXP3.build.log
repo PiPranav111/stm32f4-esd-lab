@@ -1,0 +1,10 @@
+18:10:27 **** Incremental Build of configuration Debug for project EXP3 ****
+make -j8 all 
+arm-none-eabi-size  EXP3.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6588	     12	   1572	   8172	   1fec	EXP3.elf
+Finished building: default.size.stdout
+ 
+
+18:10:28 Build Finished. 0 errors, 0 warnings. (took 508ms)
+

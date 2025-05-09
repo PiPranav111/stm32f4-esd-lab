@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;exp1_led_interfacing_using_delay_functions/Core/Src/main_hal.c&apos; to &apos;main_hal&apos;" description="Rename resource &apos;main_hal.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main_hal.c" name="main_hal" stamp="1746452829817" updateReferences="true"/>
+</session>
